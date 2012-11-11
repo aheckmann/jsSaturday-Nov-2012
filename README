@@ -1,0 +1,3 @@
+
+execute `npm install`
+then run the `driver.js` or `mongoose.js` or `schema.js` files in the examples/ directory
